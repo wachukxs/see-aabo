@@ -1,4 +1,4 @@
-# [Awesome Landing Page - Free Bootstrap Page](http://demos.creative-tim.com/landing-page)
+# [Awesome Landing Page - Free Bootstrap Page](https://demos.creative-tim.com/landing-page)
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/27/original/opt_alp_thumbnail.jpg "Awesome Landing Page")
 
@@ -12,7 +12,7 @@ Grab this free bootstrap landing page and create a beautiful website.
 
 ## Links:
 
-+ [Live Preview](http://demos.creative-tim.com/landing-page)
++ [Live Preview](https://demos.creative-tim.com/landing-page)
 
 ## Quick start
 
@@ -73,19 +73,19 @@ V1.2.2 10 Feb '17 [current version]
 
 ### License
 
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
+- Copyright 2017 Creative Tim (https://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
 
 
 ## Useful Links
 
-More products from Creative Tim: <http://www.creative-tim.com/products>
+More products from Creative Tim: <https://www.creative-tim.com/products>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-Freebies: <http://www.creative-tim.com/products>
+Freebies: <https://www.creative-tim.com/products>
 
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
+Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
 
