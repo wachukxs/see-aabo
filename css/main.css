@@ -50,7 +50,7 @@ main::before {
   height: 100%;
   background: url('../images/bg.svg');
   /* background-position: right center; */
-  
+
   background-size: cover;
   background-position: 240px top;
 
@@ -75,7 +75,8 @@ main::before {
   main::before {
     overflow: auto;
     background-size: cover;
-    background-position: 50px -150px;
+    /* background-position: 50px -150px; */
+    background-position: -90px -190px;
   }
 }
 
