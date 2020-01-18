@@ -5,11 +5,19 @@ window.onload = () => {
   const mobileMenu = document.querySelector('.header__mobile-menu');
   const divForm = document.querySelector('.form');
   const form = document.querySelector('.js-form');
-  const headingSub = document.querySelector('.heading-sub');
+
+  // const headingSub = document.querySelector('.heading-sub');
+  const headingSub = document.querySelectorAll('.heading-sub_active');
+
   const button = document.querySelector('.form__submit');
   const header = document.querySelector('.header');
-  const heading = document.querySelector('.heading');
-  const comingSoon = document.querySelector('.coming-soon');
+
+  const heading = document.querySelectorAll('.heading');
+  // const heading = document.querySelector('.heading');
+
+  // const comingSoon = document.querySelector('.coming-soon');
+  const comingSoon = document.querySelectorAll('.coming-soon');
+
   const infoBlock = document.querySelector('.form__info');
   const main = document.querySelector('main');
   const cards = document.querySelector('.cards');
@@ -61,12 +69,29 @@ window.onload = () => {
   headerOverlay.addEventListener('click', headerOverlay_Click);
 
   // ANIMATIONS
-  headingSub.classList.remove('heading-sub_active');
+  // headingSub.classList.remove('heading-sub_active');
+  for (var i = 0; i < headingSub.length; i++) {
+    headingSub[i].classList.remove('heading-sub_active')
+  }
+
   divForm.classList.remove('form_active');
   header.classList.remove('header_active');
-  headingSub.classList.remove('heading-sub_active');
-  heading.classList.remove('heading_active');
-  comingSoon.classList.remove('coming-soon_active');
+
+  // headingSub.classList.remove('heading-sub_active');
+  for (var i = 0; i < headingSub.length; i++) {
+    headingSub[i].classList.remove('heading-sub_active')
+  }
+
+  // heading.classList.remove('heading_active');
+  for (var i = 0; i < heading.length; i++) {
+    heading[i].classList.remove('heading_active')
+  }
+
+  // comingSoon.classList.remove('coming-soon_active');
+  for (var i = 0; i < comingSoon.length; i++) {
+    comingSoon[i].classList.remove('coming-soon_active')
+  }
+
   main.classList.remove('main_active');
   cards.classList.remove('cards_active');
 

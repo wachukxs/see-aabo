@@ -97,7 +97,7 @@ main::before {
   transition-delay: .7s;
 }
 
-.heading-sub {
+.heading-sub, .k {
   transition: opacity .6s ease, transform .6s ease;
   transition-delay: .9s;
 }
